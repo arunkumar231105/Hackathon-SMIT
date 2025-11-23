@@ -215,10 +215,5 @@ The Streamlit dashboard provides:
 4. **Dashboard**: Add more interactive filters and export functionality
 5. **Infrastructure**: Containerize with Docker
 
-## 📝 License
-
-This project is provided as-is for educational and commercial use.
-
----
 
 **Built with**: Python, Selenium, pandas, SQL Server, Streamlit, matplotlib
